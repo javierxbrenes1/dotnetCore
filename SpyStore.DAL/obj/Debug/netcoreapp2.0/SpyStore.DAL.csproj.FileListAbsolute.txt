@@ -1,0 +1,4 @@
+C:\Users\JavierX\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp2.0\SpyStore.DAL.csprojResolveAssemblyReference.cache
+C:\Users\JavierX\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp2.0\SpyStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JavierX\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp2.0\SpyStore.DAL.AssemblyInfoInputs.cache
+C:\Users\JavierX\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp2.0\SpyStore.DAL.AssemblyInfo.cs
